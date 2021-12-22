@@ -4,7 +4,7 @@ Atmega128A로 구현한 펀치머신
 
 
 
-<img src="https://user-images.githubusercontent.com/79401359/146861524-f9f96df7-82ec-4835-8b8d-bf9ae0c5899d.jpg"  width="720" height="800">
+<img src="https://user-images.githubusercontent.com/79401359/146861524-f9f96df7-82ec-4835-8b8d-bf9ae0c5899d.jpg"  width="500" height="600">
 
 
 
